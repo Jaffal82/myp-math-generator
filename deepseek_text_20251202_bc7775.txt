@@ -1,0 +1,19 @@
+# MYP Math Assessment Generator
+
+An AI-powered tool for creating IB MYP Mathematics assessments.
+
+## Features
+- Generate criterion-aligned assessments
+- Real-world context integration
+- Multiple difficulty levels
+- Export to various formats
+
+## How to Use
+1. Select MYP level and topic
+2. Choose criteria focus
+3. Add real-world context
+4. Click "Generate"
+5. Download or save assessment
+
+## Deployment
+Deployed on Streamlit Cloud.
